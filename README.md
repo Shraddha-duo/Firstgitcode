@@ -1,4 +1,4 @@
 # Firstgitcode
-This is my first Git code
+This is m first Git code
 <br>
 Author -Shraddha Singh
